@@ -1,0 +1,13 @@
+---
+- users:
+          - name: bob
+            job: developer
+            uid: 8945
+            
+          - name: alice
+            job: manager
+            uid: 6543
+            
+          - name: joe
+            job: manager
+            uid: 6445
